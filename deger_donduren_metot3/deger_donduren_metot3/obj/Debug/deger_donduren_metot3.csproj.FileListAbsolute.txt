@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\bin\Debug\deger_donduren_metot3.exe.config
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\bin\Debug\deger_donduren_metot3.exe
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\bin\Debug\deger_donduren_metot3.pdb
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\obj\Debug\deger_donduren_metot3.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\obj\Debug\deger_donduren_metot3.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\obj\Debug\deger_donduren_metot3.exe
+C:\Users\evrim\Desktop\deger_donduren_metot3\deger_donduren_metot3\obj\Debug\deger_donduren_metot3.pdb
