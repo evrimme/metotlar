@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\bin\Debug\asal_sayi_kontrol_metotu.exe.config
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\bin\Debug\asal_sayi_kontrol_metotu.exe
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\bin\Debug\asal_sayi_kontrol_metotu.pdb
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\obj\Debug\asal_sayi_kontrol_metotu.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\obj\Debug\asal_sayi_kontrol_metotu.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\obj\Debug\asal_sayi_kontrol_metotu.exe
+C:\Users\evrim\Desktop\asal_sayi_kontrol_metotu\asal_sayi_kontrol_metotu\obj\Debug\asal_sayi_kontrol_metotu.pdb
