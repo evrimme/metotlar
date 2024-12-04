@@ -1,7 +1,0 @@
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\sayi_tahmin_oyunu.exe.config
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\sayi_tahmin_oyunu.exe
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\bin\Debug\sayi_tahmin_oyunu.pdb
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\sayi_tahmin_oyunu.csproj.AssemblyReference.cache
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\sayi_tahmin_oyunu.csproj.CoreCompileInputs.cache
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\sayi_tahmin_oyunu.exe
-C:\Users\evrim\Desktop\sayi_tahmin_oyunu\sayi_tahmin_oyunu\obj\Debug\sayi_tahmin_oyunu.pdb
