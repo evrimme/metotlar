@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\obj\Debug\not_sonucu_donduren_metot.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\obj\Debug\not_sonucu_donduren_metot.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\bin\Debug\not_sonucu_donduren_metot.exe.config
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\bin\Debug\not_sonucu_donduren_metot.exe
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\bin\Debug\not_sonucu_donduren_metot.pdb
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\obj\Debug\not_sonucu_donduren_metot.exe
+C:\Users\evrim\Desktop\not_sonucu_donduren_metot\not_sonucu_donduren_metot\obj\Debug\not_sonucu_donduren_metot.pdb
