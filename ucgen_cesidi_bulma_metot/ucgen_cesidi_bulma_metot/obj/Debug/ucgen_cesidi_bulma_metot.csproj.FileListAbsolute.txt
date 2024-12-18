@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\bin\Debug\ucgen_cesidi_bulma_metot.exe.config
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\bin\Debug\ucgen_cesidi_bulma_metot.exe
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\bin\Debug\ucgen_cesidi_bulma_metot.pdb
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\obj\Debug\ucgen_cesidi_bulma_metot.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\obj\Debug\ucgen_cesidi_bulma_metot.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\obj\Debug\ucgen_cesidi_bulma_metot.exe
+C:\Users\evrim\Desktop\ucgen_cesidi_bulma_metot\ucgen_cesidi_bulma_metot\obj\Debug\ucgen_cesidi_bulma_metot.pdb
