@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\bin\Debug\dort_islem_metot.exe.config
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\bin\Debug\dort_islem_metot.exe
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\bin\Debug\dort_islem_metot.pdb
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\obj\Debug\dort_islem_metot.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\obj\Debug\dort_islem_metot.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\obj\Debug\dort_islem_metot.exe
+C:\Users\evrim\Desktop\dort_islem_metot\dort_islem_metot\obj\Debug\dort_islem_metot.pdb
