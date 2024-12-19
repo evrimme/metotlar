@@ -14,6 +14,7 @@ Bu proje, kullanıcının girdiği iki sayı ve seçilen işlem türüne göre d
 4. Kullanıcıdan iki sayı ve yapılacak işlemi girin.
 
 ##Kullanım Açıklamaları
+
 Program çalıştırıldığında, kullanıcıdan sırasıyla iki sayı girilmesi istenir.
 
 Girilen sayılara yapılacak işlem türü seçilir:
