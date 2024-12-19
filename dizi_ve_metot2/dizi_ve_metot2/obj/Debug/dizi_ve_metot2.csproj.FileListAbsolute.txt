@@ -1,0 +1,7 @@
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\bin\Debug\dizi_ve_metot2.exe.config
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\bin\Debug\dizi_ve_metot2.exe
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\bin\Debug\dizi_ve_metot2.pdb
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\obj\Debug\dizi_ve_metot2.csproj.AssemblyReference.cache
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\obj\Debug\dizi_ve_metot2.csproj.CoreCompileInputs.cache
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\obj\Debug\dizi_ve_metot2.exe
+C:\Users\evrim\Desktop\dizi_ve_metot2\dizi_ve_metot2\obj\Debug\dizi_ve_metot2.pdb
