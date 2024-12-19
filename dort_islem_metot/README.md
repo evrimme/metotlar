@@ -7,13 +7,13 @@ Bu proje, kullanıcının girdiği iki sayı ve seçilen işlem türüne göre d
 - Kullanıcıdan yapılacak işlemi seçmesini ister.
 - Seçilen işleme göre sonucu hesaplar ve ekrana yazdırır.
   
-## Kurulum ve Kullanım 
+## Kurulum 
 1. Projeyi klonlayın veya indirin. 
 2. Bir C# geliştirme ortamında (örneğin, Visual Studio) projeyi açın.
 3. `Program.cs` dosyasını çalıştırın.
 4. Kullanıcıdan iki sayı ve yapılacak işlemi girin.
 
-##Kullanım Açıklamaları
+## Kullanım Açıklamaları
 
 Program çalıştırıldığında, kullanıcıdan sırasıyla iki sayı girilmesi istenir.
 
